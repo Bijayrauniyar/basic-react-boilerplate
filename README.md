@@ -31,8 +31,8 @@ This boilerplate features all the latest tools and practices in the industry.
 
 ## Getting started
 
-1. Clone this repo using `https://github.com/leonardomso/react-bolt.git`
-2. Move to the appropriate directory: `cd react-bolt`.<br />
+1. Clone this repo using `https://github.com/Bijayrauniyar/basic-react-boilerplate.git`
+2. Move to the appropriate directory: `cd basic-react-boilerplate`.<br />
 3. Run `yarn` or `npm install` to install dependencies.<br />
 4. Run `npm start` to see the example app at `http://localhost:8080`.
 
@@ -45,15 +45,5 @@ This boilerplate features all the latest tools and practices in the industry.
 - `npm test` - run all tests
 - `npm run test:watch` - run all tests in watch mode
 - `npm run test:cover` - coverage mode
-- `npm run cypress:open` - starts cypress
 
-## Next features:
 
-- [ ] **Hot Module Replacement**: Better HMR support;
-- [ ] **CSS/Sass support**: Enable CSS/Sass support;
-- [ ] **PWA**: Turn into a PWA boilerplate;
-- [ ] **SEO**: SEO-ready;
-
-## License
-
-MIT license, Copyright (c) 2018 Leonardo Maldonado.
